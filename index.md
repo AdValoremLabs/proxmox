@@ -1,4 +1,3 @@
-
 ---
 title: Proxmox Node Kit
 layout: default
